@@ -1,0 +1,16 @@
+# CMake build directories
+build/
+cmake-build-*/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+/yadro_test
+/yadro_telecom
+
+# Runtime output
+/result.txt
