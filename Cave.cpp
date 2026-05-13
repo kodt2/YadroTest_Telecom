@@ -1,9 +1,9 @@
 #include "Cave.h"
 #include "ParseError.h"
 
-#include <iostream>
 #include <algorithm>
 #include <climits>
+#include <cctype>
 #include <sstream>
 #include <stdexcept>
 #include <string>
